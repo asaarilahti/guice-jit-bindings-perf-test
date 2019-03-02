@@ -1,3 +1,6 @@
+## Purpose
+Demonstrate the issue described in https://github.com/google/guice/issues/1190 and to allow to benchmark potential fixes.
+
 ## How to run
 * mvn clean install
 * java -jar target/benchmarks.jar
